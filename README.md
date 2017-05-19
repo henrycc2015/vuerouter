@@ -25,3 +25,12 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+1、路由匹配、传参
+
+2、嵌套路由
+
+3、生命周期
+
+4、异步加载
